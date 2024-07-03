@@ -1,2 +1,7 @@
 # Youtube.com-Clone
-A beginner level html and css project to learn the basics of the languages
+
+The project is about a basic clone of the youtube home page with the help of HTML (hypertext markup language) and CSS (cascading style sheets).
+Throughout the learning curve, I learnt various important topics like units, positions, flexbox, grid, media queries, etc.
+The final clone is a responsive design with all the front end features present on a youtube home page like tooltips, window resizing, sidebar, auto-sizing saerch bar, etc.
+
+This marks the journey of my web-development learning.
